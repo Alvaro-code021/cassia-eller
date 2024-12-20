@@ -30,7 +30,7 @@ header p {
 main {
   background-color: white;
   border-radius: 0px 0px 25px 25px;
-  min-width: 320px;
+  min-width: 300px;
   max-width: 90vw;
   margin: auto;
 }
@@ -56,7 +56,7 @@ main p {
 aside {
   background-color: var(--cor2);
   border-radius: 20px;
-  margin: 10px;
+  margin: 20px 10px 10px 10px;
   padding: 6px;
   display: inline-block;
 }
